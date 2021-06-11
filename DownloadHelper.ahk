@@ -1,4 +1,4 @@
-﻿;@Ahk2Exe-SetMainIcon DownloadHelper.ico
+;@Ahk2Exe-SetMainIcon DownloadHelper.ico
 ;@Ahk2Exe-SetCopyright Nick768/Nico3110
 ;@Ahk2Exe-SetDescription Batch Downloadhelper mit Curl
 ;@Ahk2Exe-SetFileVersion 1.0
