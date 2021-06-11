@@ -1,4 +1,4 @@
-﻿getErrorMsg(errorCode, description := true) {
+getErrorMsg(errorCode, description := true) {
 	winerrormsg := [
 		["0", "0x0", "ERROR_SUCCESS", "The operation completed successfully.", "winerror.h"],
 		["1", "0x1", "ERROR_INVALID_FUNCTION", "Incorrect function.", "winerror.h"],
