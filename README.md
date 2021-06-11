@@ -10,3 +10,9 @@ You can paste a list of links in the edit box and click download. Then it should
 ## Warnings
 * This program is not meant to be used productively! It seems to be proof-of-concept, but who knows :).
 * The UI is completely in german. I will change it some day but for now it is like it is.
+* I don't know if i am allowed to reuse the Curl binary i am using and the logo i'm (currently) using. Therefore they are not available in this repo. But you could make your own icon and download the official Curl binary and add it to the compiler script.
+
+## Compilation
+* compile the AddResource.ahkh2 (with the compiler bundled with ahkdll v2 [link above])
+* edit the compile.bat to fit your needs
+* double click compile.bat
