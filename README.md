@@ -13,6 +13,6 @@ You can paste a list of links in the edit box and click download. Then it should
 * I don't know if i am allowed to reuse the Curl binary i am using and the logo i'm (currently) using. Therefore they are not available in this repo. But you could make your own icon and download the official Curl binary and add it to the compiler script.
 
 ## Compilation
-* compile the AddResource.ahkh2 (with the compiler bundled with ahkdll v2 [link above])
+* compile the AddResource.ahk (with the compiler bundled with ahkdll v2 [link above])
 * edit the compile.bat to fit your needs
 * double click compile.bat
